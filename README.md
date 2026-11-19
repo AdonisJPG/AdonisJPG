@@ -2,6 +2,7 @@
 Aquí abajo proponer cambios!! 
 Cambio 1 
 Cambio 2
+Cambio 3 - local
 <!--
 **AdonisJPG/AdonisJPG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
