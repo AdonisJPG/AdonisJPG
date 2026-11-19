@@ -1,6 +1,7 @@
 ## Este es el readme personal de Adonis 👋
 Aquí abajo proponer cambios!! 
 Cambio 1 
+Cambio 2
 <!--
 **AdonisJPG/AdonisJPG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
